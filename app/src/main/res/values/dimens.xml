@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="header_view_start_margin_left">16dp</dimen>
+    <dimen name="header_view_end_margin_left">40dp</dimen>
+    <dimen name="header_view_end_margin_right">14dp</dimen>
+    <dimen name="header_view_start_margin_bottom">14dp</dimen>
+    <dimen name="header_view_start_text_size">32sp</dimen>
+    <dimen name="header_view_end_text_size">18sp</dimen>
+
+    <dimen name="text_big_size">20sp</dimen>
+    <dimen name="text_normal_size">17sp</dimen>
+    <dimen name="text_min_size">15sp</dimen>
+    <dimen name="nav_text_size">10sp</dimen>
+    <dimen name="margin_20">20dp</dimen>
+    <dimen name="head_height">60dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="margin_60">60dp</dimen>
+    <dimen name="image_head">30dp</dimen>
+    <dimen name="foot_height">100dp</dimen>
+    <dimen name="margin_foot">20dp</dimen>
+    <dimen name="margin_40">40dp</dimen>
+    <dimen name="margin_30">30dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+    <dimen name="text_min_channel">13sp</dimen>
+    <dimen name="related_video">12sp</dimen>
+    <dimen name="related_video_title">14sp</dimen>
+
+    <dimen name="component_regular_size">16dp</dimen>
+    <dimen name="component_half_size">8dp</dimen>
+    <dimen name="component_small_size">4dp</dimen>
+    <dimen name="component_double_size">32dp</dimen>
+    <dimen name="margin_menu">25dp</dimen>
+    <dimen name="menu_item">120dp</dimen>
+    <dimen name="text_menu_size">13sp</dimen>
+    <dimen name="large_column_width">150dp</dimen>
+    <dimen name="regular_column_width">80dp</dimen>
+    <dimen name="medium_column_width">100dp</dimen>
+    <dimen name="extra_large_column_width">250dp</dimen>
+
+    <dimen name="edittext_padding">2dp</dimen>
+    <dimen name="margin_edit_text">48dp</dimen>
+    <dimen name="player_height">230dp</dimen>
+    <dimen name="video_title">22sp</dimen>
+    <dimen name="margin_register">40dp</dimen>
+    <dimen name="tour_title">20sp</dimen>
+    <dimen name="map_icon_height">30dp</dimen>
+    <dimen name="map_icon_width">24dp</dimen>
+    <dimen name="upload_video_margin">20dp</dimen>
+</resources>

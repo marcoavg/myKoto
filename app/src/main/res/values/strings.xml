@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">myKoto</string>
+    <string name="text_big_test">sadasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasdasd sadasdasd asdasdasdasd asdasdasdasdasdasdasd adsdasdasdasd asdasdasdasdasdas asdasdasdasdad asdasdasdasda asdas</string>
+    <string name="text_medium_test">textasdasdasdasdasdasdasdasdasdasdas</string>
+    <string name="error_server_error">Revisa la coneccion a internet</string>
+    <string name="no_network">Without internet connection</string>
+</resources>
