@@ -1,2 +1,9 @@
 node_modules/
 uploads/*
+/public/coto/*.jpg
+/public/coto/*.png
+/public/coto/*.jpeg
+
+/public/users/*.jpg
+/public/users/*.png
+/public/users/*.jpeg

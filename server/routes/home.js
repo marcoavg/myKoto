@@ -33,6 +33,7 @@ app.post('/home', function(req, res) {
             name: body.name,
             description: body.description,
             user: body.id,
+            info: body.info,
             id: id
         })
 
