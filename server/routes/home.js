@@ -112,15 +112,15 @@ function imagenKoto(id, res, nameFile) {
             })
         }
 
-        if (!kotoDB) {
-            deleteFile(nameFile)
-            return res.status(400).json({
-                error: {
-                    mensaje: `no existe el coto`
-                }
-            })
-        }
-        deleteFile(kotoDB.img)
+        // if (!kotoDB) {
+        //     deleteFile(nameFile)
+        //     return res.status(400).json({
+        //         error: {
+        //             mensaje: `no existe el coto`
+        //         }
+        //     })
+        // }
+        // deleteFile(kotoDB.img)
         kotoDB.img = nameFile
         kotoDB.save((error, kotoSave) => {
             if (error) {
